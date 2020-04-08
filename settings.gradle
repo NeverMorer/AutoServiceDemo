@@ -1,0 +1,2 @@
+include ':app', ':module_1', ':common', ':module_2'
+rootProject.name='AutoServiceDemo'
